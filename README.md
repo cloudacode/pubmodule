@@ -1,0 +1,2 @@
+# pubmodule
+test go module
